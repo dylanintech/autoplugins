@@ -1,5 +1,6 @@
 import Plugins from "./plugins";
 import Buttons from "../buttons";
+import Board from "./board";
 
 export default function Page() {
     return (
@@ -13,7 +14,8 @@ export default function Page() {
             </div>
 
               <Plugins />
-              <p className='text-center text-black my-2'>built with ❤️ by <a className='underline' href="https://twitter.com/dxlantxch" target='none'>dylan</a>.</p>
+              <Board />
+              <p className='text-left text-black my-2 text-right w-full'>built with ❤️ by <a className='underline' href="https://twitter.com/dxlantxch" target='none'>dylan</a>.</p>
         </main>
     )
 }

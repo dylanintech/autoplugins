@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Buttons from './buttons'
 import Plugins from './plugins/plugins'
+import Board from './plugins/board'
 
 export default function Page() {
   return (
@@ -14,7 +15,8 @@ export default function Page() {
           <Buttons />
         </div>
         <Plugins />
-        <p className='text-center text-black'>built with ❤️ by <a className='underline' href="https://twitter.com/dxlantxch" target='none'>dylan.</a></p>
+        <Board />
+        <p className='text-center text-black my-2 text-right w-full'>built with ❤️ by <a className='underline' href="https://twitter.com/dxlantxch" target='none'>dylan</a>.</p>
     </main>
   )
 }

@@ -150,6 +150,18 @@ export default function Plugins() {
             ]
         },
         {
+            name: 'Metatrader',
+            description: 'A software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.',
+            firstParty: false,
+            link: 'https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin',
+            contributors: [
+                {
+                    username: 'https://github.com/isaiahbjork',
+                    pfp: 'https://avatars.githubusercontent.com/u/95888118?v=4'
+                }
+            ]
+        },
+        {
             name: 'Telegram',
             description: 'A smoothly working Telegram bot that gives you all the messages you would normally get through the Terminal.',
             firstParty: false,
