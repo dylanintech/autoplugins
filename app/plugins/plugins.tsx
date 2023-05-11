@@ -367,7 +367,7 @@ export default function Plugins() {
     return (
         <div className='grid gap-6 grid-cols-3 grid-rows-3'>
             {data.map((plugin) => (
-                <Card name={plugin.name} description={plugin.description} firstParty={plugin.firstParty} github={plugin.link} contributers={plugin.contributors} />
+                <Card key={plugin.name} name={plugin.name} description={plugin.description} firstParty={plugin.firstParty} github={plugin.link} contributers={plugin.contributors} />
             ))}
         </div>
     )

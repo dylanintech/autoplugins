@@ -24,7 +24,7 @@ export default function Card(props: Props) {
             <div className="flex flex-row items-center">
                 <p className="text-slate-500 font-mono">built by</p>
                 {props.contributers.map((contributer) => {
-                    return <a href={contributer.username} target="none"><img className="rounded-full w-10 h-10 mx-1 hover:shadow-lg " src={contributer.pfp}></img></a>
+                    return <a key={contributer.username} href={contributer.username} target="none"><img className="rounded-full w-10 h-10 mx-1 hover:shadow-lg " src={contributer.pfp}></img></a>
                 })}
             </div>
 
