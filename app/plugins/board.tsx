@@ -125,7 +125,7 @@ export default function Board() {
 
     return (
         <div className="mt-4">
-            <h1 className="text-black font-mono">activity leaderboard (based on no. of commits)</h1>
+            <h1 className="text-black font-mono">activity leaderboard (based on no. of commits as of may 11)</h1>
             <Leaderboard items={data} id="name" scoringMetric="commits" cell1="commits" theme="purple" className="max-w-2xl shadow-lg" />
         </div>
     )
