@@ -43,6 +43,10 @@ export default function Plugins() {
                 {
                     username:'https://github.com/ntindle',
                     pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/riensen',
+                    pfp: 'https://avatars.githubusercontent.com/u/3340218?v=4'
                 }
             ]
         },
@@ -56,6 +60,14 @@ export default function Plugins() {
                 {
                     username:'https://github.com/ntindle',
                     pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/hanxiao',
+                    pfp: 'https://avatars.githubusercontent.com/u/2041322?v=4',
+                },
+                {
+                    username: 'https://github.com/delgermurun',
+                    pfp: 'https://avatars.githubusercontent.com/u/492616?v=4'
                 }
             ]
         },
@@ -69,6 +81,10 @@ export default function Plugins() {
                 {
                     username:'https://github.com/ntindle',
                     pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/ForestLinSen',
+                    pfp: 'https://avatars.githubusercontent.com/u/41566276?v=4'
                 }
             ]
         },
@@ -82,6 +98,10 @@ export default function Plugins() {
                 {
                     username:'https://github.com/ntindle',
                     pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/PalAditya',
+                    pfp: 'https://avatars.githubusercontent.com/u/25523604?v=4'
                 }
             ]
         },
@@ -95,6 +115,10 @@ export default function Plugins() {
                 {
                     username:'https://github.com/ntindle',
                     pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/pierluigi-failla',
+                    pfp: 'https://avatars.githubusercontent.com/u/3326829?v=4'
                 }
             ]
         },
@@ -120,6 +144,14 @@ export default function Plugins() {
                 {
                     username: 'https://github.com/h4ck3rk3y',
                     pfp: 'https://avatars.githubusercontent.com/u/6670312?v=4'
+                },
+                {
+                    username:'https://github.com/ntindle',
+                    pfp: 'https://avatars.githubusercontent.com/u/8845353?v=4'
+                },
+                {
+                    username: 'https://github.com/sidewaysthought',
+                    pfp: 'https://avatars.githubusercontent.com/u/92705102?v=4'
                 }
             ]
         },
@@ -133,6 +165,10 @@ export default function Plugins() {
                 {
                     username:'https://github.com/hdkiller', 
                     pfp: 'https://avatars.githubusercontent.com/u/10578603?v=4'
+                },
+                {
+                    username: 'https://github.com/Brian-Webster',
+                    pfp: 'https://avatars.githubusercontent.com/u/3356598?v=4'
                 }
             ]
         },
@@ -158,6 +194,10 @@ export default function Plugins() {
                 {
                     username: 'https://github.com/isaiahbjork',
                     pfp: 'https://avatars.githubusercontent.com/u/95888118?v=4'
+                },
+                {
+                    username: 'https://github.com/bigguyjones',
+                    pfp: 'https://avatars.githubusercontent.com/u/95013639?v=4'
                 }
             ]
         },
@@ -297,6 +337,10 @@ export default function Plugins() {
         {
             username: 'https://github.com/gravelBridge',
             pfp: 'https://avatars.githubusercontent.com/u/107640947?v=4',
+        },
+        {
+            username: 'https://github.com/BaseInfinity',
+            pfp: 'https://avatars.githubusercontent.com/u/1424113?v=4'
         }
     ]
 },
@@ -310,6 +354,10 @@ export default function Plugins() {
         {
             username: 'https://github.com/lc0rp',
             pfp: 'https://avatars.githubusercontent.com/u/2609441?v=4',
+        },
+        {
+            username: 'https://github.com/ppetermann',
+            pfp: 'https://avatars.githubusercontent.com/u/69334?v=4'
         }
     ]
 },
