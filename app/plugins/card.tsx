@@ -1,11 +1,16 @@
 'use client';
 
+interface PropContributors {
+    username: string,
+    pfp: string
+}
+
 interface Props {
     name: string,
     description: string,
     firstParty: boolean,
     github: string,
-    contributers: any[]
+    contributers: PropContributors[]
 }
 
 export default function Card(props: Props) {

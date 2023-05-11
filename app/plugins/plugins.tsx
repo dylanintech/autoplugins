@@ -202,6 +202,22 @@ export default function Plugins() {
             ]
         },
         {
+            name: 'auto planner',
+            description: 'Simple planner for AutoGPT that can create tasks and checklists to execute commands based on its strategy.',
+            firstParty: false,
+            link: 'https://github.com/rihp/autogpt-planner-plugin',
+            contributors: [
+                {
+                    username: 'https://github.com/rihp',
+                    pfp: 'https://avatars.githubusercontent.com/u/12145726?v=4'
+                },
+                {
+                    username: 'https://github.com/ppetermann',
+                    pfp: 'https://avatars.githubusercontent.com/u/69334?v=4'
+                }
+            ]
+        },
+        {
             name: 'Telegram',
             description: 'A smoothly working Telegram bot that gives you all the messages you would normally get through the Terminal.',
             firstParty: false,
@@ -210,6 +226,32 @@ export default function Plugins() {
                 {
                     username: 'https://github.com/Wladastic',
                     pfp: 'https://avatars.githubusercontent.com/u/11997278?v=4'
+                }
+            ]
+        },
+        {
+            name: 'Zapier',
+            description: 'This plugin allows you to easily integrate Zapier with the powerful language model GPT-4 to create various automations and applications.',
+            firstParty: false,
+            link: 'https://github.com/AntonioCiolino/AutoGPT-Zapier',
+            contributors: 
+            [
+                {
+                    username: 'https://github.com/AntonioCiolino',
+                    pfp: 'https://avatars.githubusercontent.com/u/2817636?v=4'
+                }
+            ]
+        },
+        {
+            name: 'AutoGPT_IFTTT',
+            description: ' This plugin allows you to easily integrate IFTTT with the powerful language model GPT-4 to create various automations and applications.',
+            firstParty: false,
+            link: 'https://github.com/AntonioCiolino/AutoGPT-IFTTT',
+            contributors: 
+            [
+                {
+                    username: 'https://github.com/AntonioCiolino',
+                    pfp: 'https://avatars.githubusercontent.com/u/2817636?v=4'
                 }
             ]
         },

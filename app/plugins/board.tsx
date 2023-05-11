@@ -117,7 +117,10 @@ export default function Board() {
             name: 'Instagram',
             commits: 8,
         },
-
+        {
+            name: 'auto planner',
+            commits: 33,
+        },
     ]
 
     return (
