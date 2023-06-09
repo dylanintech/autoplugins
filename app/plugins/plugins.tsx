@@ -463,7 +463,18 @@ export default function Plugins() {
         }
     ]
 },
-
+{
+    name: 'RabbitMQ',
+    description: 'This plugin allows you to communicate with your Auto-GPT instance via microservice.',
+    firstParty: false,
+    link: 'https://github.com/tomtom94/AutoGPT-RabbitMQ',
+    contributors: [
+        {
+            username: 'https://github.com/tomtom94',
+            pfp: 'https://avatars.githubusercontent.com/u/262550?v=4'
+        }
+    ]
+},
     ]
 
     return (
